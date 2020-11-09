@@ -55,7 +55,7 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
+| http://labs.metoffice.gov.uk/map/edr-client/html/query.html
 | TBA
 | TBA
 
